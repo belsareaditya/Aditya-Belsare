@@ -163,26 +163,28 @@ I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AW
 
 <div style="
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
-  gap: 30px;
+  gap: 40px;
   flex-wrap: wrap;
-  padding: 10px 0;
+  padding: 15px 0;
 ">
 
-  <!-- AWS Certified Solutions Architect – Associate -->
+  <!-- AWS Solutions Architect – Associate -->
   <div align="center">
     <img src="https://storage.googleapis.com/bkt-static-content/aws-certified-solutions-architect-associate.png"
          alt="AWS Certified Solutions Architect – Associate"
-         width="120" height="120" style="object-fit: contain;"><br>
+         width="130" height="130" style="object-fit: contain;">
+    <br>
     <sub><b>AWS Solutions Architect – Associate</b></sub>
   </div>
 
   <!-- AWS Certified Cloud Practitioner -->
   <div align="center">
-    <img src="https://raw.githubusercontent.com/belsareaditya/assets/main/aws-certified-cloud-practitioner.png"
+    <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge_512x512.9d990e17b5.png"
          alt="AWS Certified Cloud Practitioner"
-         width="120" height="120" style="object-fit: contain;"><br>
+         width="130" height="130" style="object-fit: contain;">
+    <br>
     <sub><b>AWS Cloud Practitioner</b></sub>
   </div>
 
