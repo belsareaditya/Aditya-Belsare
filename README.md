@@ -181,9 +181,9 @@ I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AW
 
   <!-- AWS Certified Cloud Practitioner -->
   <div align="center">
-    <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge_512x512.9d990e17b5.png"
-         alt="AWS Certified Cloud Practitioner"
-         width="130" height="130" style="object-fit: contain;">
+    <img src="https://raw.githubusercontent.com/rohan-paul/AWS-Certification-Badges/main/AWS-Certified-Cloud-Practitioner.png"
+     alt="AWS Certified Cloud Practitioner"
+     width="130" height="130" style="object-fit: contain;">
     <br>
     <sub><b>AWS Cloud Practitioner</b></sub>
   </div>
