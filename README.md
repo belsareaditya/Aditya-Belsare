@@ -4,11 +4,54 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=21&pause=1000&color=0D2F3E&width=435&lines=Cloud+%26+DevOps+Engineer+%7C+SRE+Mindset+%7C)](https://git.io/typing-svg)
 
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-    <img src="https://storage.googleapis.com/bkt-static-content/unnamed.png" width="150">
-    <img src="https://storage.googleapis.com/bkt-static-content/devlib-badge.png" width="200">
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  flex-wrap: wrap;
+  padding: 15px;
+  background-color: transparent;
+">
+
+  <!-- CI/CD -->
+  <img src="https://storage.googleapis.com/bkt-static-content/cicd.png" 
+       alt="CI/CD Pipeline" width="120" height="120" style="object-fit: contain;">
+
+  <!-- Jenkins -->
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" 
+       alt="Jenkins" width="80" height="80" style="object-fit: contain;">
+
+  <!-- GitHub Actions -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       alt="GitHub Actions" width="80" height="80" style="object-fit: contain;">
+
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+       alt="Docker" width="80" height="80" style="object-fit: contain;">
+
+  <!-- Kubernetes -->
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
+       alt="Kubernetes" width="80" height="80" style="object-fit: contain;">
+
+  <!-- Terraform -->
+  <img src="https://storage.googleapis.com/bkt-static-content/terraform.png" 
+       alt="Terraform" width="80" height="80" style="object-fit: contain;">
+
+  <!-- Prometheus -->
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" 
+       alt="Prometheus" width="80" height="80" style="object-fit: contain;">
+
+  <!-- Grafana -->
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" 
+       alt="Grafana" width="80" height="80" style="object-fit: contain;">
+
+  <!-- Ansible -->
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" 
+       alt="Ansible" width="80" height="80" style="object-fit: contain;">
 
 </div>
+
 
 I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AWS Cloud, Terraform, and AI-driven automation. Passionate about building reliable, scalable, and self-healing systems, I bridge the gap between development and operations through automation, observability, and data-driven insights.
 
