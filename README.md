@@ -54,20 +54,26 @@ I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AW
 
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-bulbule&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-bulbule" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=belsareaditya&label=Profile%20views&color=0e75b6&style=flat" alt="belsareaditya" /> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/belsareaditya" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="Aditya Belsare LinkedIn" height="30" width="40" />
-</a>
 
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" 
-       alt="Portfolio Website" height="30" width="40" />
-</a>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/belsareaditya" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn - Aditya Belsare" height="35" width="35" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" 
+         alt="Portfolio Website" height="35" width="35" />
+  </a>
 </p>
+
 <br>
 <h3 align="left">💻 My Tech Stack:</h3>
 
@@ -126,28 +132,54 @@ I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AW
 <br>
 
 
-<h3 align="left">AI Platform:</h3>
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  padding: 10px;
-">
-  <img src="https://storage.googleapis.com/bkt-static-content/openai.png" alt="OpenAI" width="100" height="100" style="object-fit: contain;">
-  <img src="https://storage.googleapis.com/bkt-static-content/bard.png" alt="Bard" width="100" height="100" style="object-fit: contain;">
-  <img src="https://storage.googleapis.com/bkt-static-content/duetai.png" alt="Duet AI" width="100" height="100" style="object-fit: contain;">
-  <img src="https://storage.googleapis.com/bkt-static-content/gemini.png" alt="Gemini" width="100" height="100" style="object-fit: contain;">
-</div>
+<h3 align="left">🤖 AI Platform:</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://storage.googleapis.com/bkt-static-content/openai.png" alt="OpenAI" width="80" height="80" style="object-fit: contain;"><br>
+      <sub><b>OpenAI</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://storage.googleapis.com/bkt-static-content/bard.png" alt="Bard" width="80" height="80" style="object-fit: contain;"><br>
+      <sub><b>Bard</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://storage.googleapis.com/bkt-static-content/duetai.png" alt="Duet AI" width="80" height="80" style="object-fit: contain;"><br>
+      <sub><b>Duet AI</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://storage.googleapis.com/bkt-static-content/gemini.png" alt="Gemini" width="80" height="80" style="object-fit: contain;"><br>
+      <sub><b>Gemini</b></sub>
+    </td>
+  </tr>
+</table>
+<br>
+
 
 <br>
 
-## Certifications
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; padding: 10px;">
-  <img src="https://storage.googleapis.com/bkt-static-content/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect – Associate">
-  <img src="https://storage.googleapis.com/bkt-static-content/aws-certified-cloud-practitioner.png" width="100" alt="AWS Certified Cloud Practitioner">
+<h3 align="left">🎓 Certifications</h3>
+
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  flex-wrap: wrap;
+  padding: 10px;
+">
+
+  <!-- AWS Solutions Architect - Associate -->
+  <img src="https://storage.googleapis.com/bkt-static-content/aws-certified-solutions-architect-associate.png" 
+       alt="AWS Certified Solutions Architect – Associate" 
+       width="120" height="120" style="object-fit: contain;">
+
+  <!-- AWS Cloud Practitioner -->
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge_512x512.9d990e17b5.png" 
+       alt="AWS Certified Cloud Practitioner" 
+       width="120" height="120" style="object-fit: contain;">
+
 </div>
 
 
