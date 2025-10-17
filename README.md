@@ -4,55 +4,49 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=21&pause=1000&color=0D2F3E&width=435&lines=Cloud+%26+DevOps+Engineer+%7C+SRE+Mindset+%7C)](https://git.io/typing-svg)
 
-<div style="
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 30px;
-  overflow-x: auto;
-  padding: 15px 10px;
-  scrollbar-width: thin;
-  scrollbar-color: #888 transparent;
-">
-  
-  <!-- CI/CD -->
-  <img src="https://storage.googleapis.com/bkt-static-content/cicd.png" 
-       alt="CI/CD Pipeline" width="100" height="100" style="object-fit: contain;">
+<h3>🚀 DevOps & CI/CD Tools</h3>
 
-  <!-- Jenkins -->
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" 
-       alt="Jenkins" width="80" height="80" style="object-fit: contain;">
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://storage.googleapis.com/bkt-static-content/cicd.png" width="60" height="60" alt="CI/CD Pipeline"/><br>
+      <sub><b>CI/CD</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="60" height="60" alt="Jenkins"/><br>
+      <sub><b>Jenkins</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub Actions"/><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60" height="60" alt="Kubernetes"/><br>
+      <sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://storage.googleapis.com/bkt-static-content/terraform.png" width="60" height="60" alt="Terraform"/><br>
+      <sub><b>Terraform</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="60" height="60" alt="Prometheus"/><br>
+      <sub><b>Prometheus</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="60" height="60" alt="Grafana"/><br>
+      <sub><b>Grafana</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="60" height="60" alt="Ansible"/><br>
+      <sub><b>Ansible</b></sub>
+    </td>
+  </tr>
+</table>
 
-  <!-- GitHub Actions -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-       alt="GitHub Actions" width="80" height="80" style="object-fit: contain;">
-
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
-       alt="Docker" width="80" height="80" style="object-fit: contain;">
-
-  <!-- Kubernetes -->
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
-       alt="Kubernetes" width="80" height="80" style="object-fit: contain;">
-
-  <!-- Terraform -->
-  <img src="https://storage.googleapis.com/bkt-static-content/terraform.png" 
-       alt="Terraform" width="80" height="80" style="object-fit: contain;">
-
-  <!-- Prometheus -->
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" 
-       alt="Prometheus" width="80" height="80" style="object-fit: contain;">
-
-  <!-- Grafana -->
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" 
-       alt="Grafana" width="80" height="80" style="object-fit: contain;">
-
-  <!-- Ansible -->
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" 
-       alt="Ansible" width="80" height="80" style="object-fit: contain;">
-
-</div>
 
 
 
