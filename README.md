@@ -71,82 +71,60 @@ I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AW
 <br>
 <h3 align="left">💻 My Tech Stack:</h3>
 
-<p align="center">
-
-  <!-- Google Cloud -->
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
-    <br><sub><b>Google Cloud</b></sub>
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    <br><sub><b>Python</b></sub>
-  </a>
-
-  <!-- Terraform -->
-  <a href="https://www.terraform.io" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://storage.googleapis.com/bkt-static-content/terraform.png" alt="Terraform" width="50" height="50"/>
-    <br><sub><b>Terraform</b></sub>
-  </a>
-
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
-    <br><sub><b>Bash</b></sub>
-  </a>
-
-  <!-- SQL -->
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://storage.googleapis.com/bkt-static-content/sql.png" alt="SQL" width="50" height="50"/>
-    <br><sub><b>SQL</b></sub>
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-    <br><sub><b>Docker</b></sub>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-    <br><sub><b>Git</b></sub>
-  </a>
-
-  <!-- Jenkins -->
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
-    <br><sub><b>Jenkins</b></sub>
-  </a>
-
-  <!-- Kubernetes -->
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
-    <br><sub><b>Kubernetes</b></sub>
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-    <br><sub><b>Linux</b></sub>
-  </a>
-
-  <!-- Microsoft SQL -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="50" height="50"/>
-    <br><sub><b>MS SQL</b></sub>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-    <br><sub><b>MySQL</b></sub>
-  </a>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50" alt="Google Cloud"/><br>
+      <sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://storage.googleapis.com/bkt-static-content/terraform.png" width="50" height="50" alt="Terraform"/><br>
+      <sub><b>Terraform</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" alt="Bash"/><br>
+      <sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://storage.googleapis.com/bkt-static-content/sql.png" width="50" height="50" alt="SQL"/><br>
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" alt="Jenkins"/><br>
+      <sub><b>Jenkins</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/><br>
+      <sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/><br>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" alt="MS SQL Server"/><br>
+      <sub><b>MS SQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
 <br>
+
 
 <h3 align="left">AI Platform:</h3>
 <div style="
