@@ -6,17 +6,19 @@
 
 <div style="
   display: flex;
-  justify-content: center;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
   align-items: center;
-  gap: 25px;
-  flex-wrap: wrap;
-  padding: 15px;
-  background-color: transparent;
+  gap: 30px;
+  overflow-x: auto;
+  padding: 15px 10px;
+  scrollbar-width: thin;
+  scrollbar-color: #888 transparent;
 ">
-
+  
   <!-- CI/CD -->
   <img src="https://storage.googleapis.com/bkt-static-content/cicd.png" 
-       alt="CI/CD Pipeline" width="120" height="120" style="object-fit: contain;">
+       alt="CI/CD Pipeline" width="100" height="100" style="object-fit: contain;">
 
   <!-- Jenkins -->
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" 
@@ -51,6 +53,7 @@
        alt="Ansible" width="80" height="80" style="object-fit: contain;">
 
 </div>
+
 
 
 I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AWS Cloud, Terraform, and AI-driven automation. Passionate about building reliable, scalable, and self-healing systems, I bridge the gap between development and operations through automation, observability, and data-driven insights.
