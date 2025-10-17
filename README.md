@@ -80,8 +80,9 @@ I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AW
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50" alt="Google Cloud"/><br>
-      <sub><b>Google Cloud</b></sub>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" height="50" alt="AWS"/>
+><br>
+      <sub><b>AWS</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>
@@ -134,30 +135,29 @@ I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AW
 
 <h3 align="left">🤖 AI Platform:</h3>
 
-<table align="center">
+<table align="left" style="margin-left: 0;">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="120" style="border: 1px solid #ddd; padding: 10px;">
       <img src="https://storage.googleapis.com/bkt-static-content/openai.png" alt="OpenAI" width="80" height="80" style="object-fit: contain;"><br>
       <sub><b>OpenAI</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="120" style="border: 1px solid #ddd; padding: 10px;">
       <img src="https://storage.googleapis.com/bkt-static-content/bard.png" alt="Bard" width="80" height="80" style="object-fit: contain;"><br>
       <sub><b>Bard</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="120" style="border: 1px solid #ddd; padding: 10px;">
       <img src="https://storage.googleapis.com/bkt-static-content/duetai.png" alt="Duet AI" width="80" height="80" style="object-fit: contain;"><br>
       <sub><b>Duet AI</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="120" style="border: 1px solid #ddd; padding: 10px;">
       <img src="https://storage.googleapis.com/bkt-static-content/gemini.png" alt="Gemini" width="80" height="80" style="object-fit: contain;"><br>
       <sub><b>Gemini</b></sub>
     </td>
   </tr>
 </table>
-<br>
 
+<br clear="all">
 
-<br>
 
 <h3 align="left">🎓 Certifications</h3>
 
@@ -171,14 +171,16 @@ I’m a cloud architect with a strong DevOps and SRE mindset, specializing in AW
 ">
 
   <!-- AWS Solutions Architect - Associate -->
-  <img src="https://storage.googleapis.com/bkt-static-content/aws-certified-solutions-architect-associate.png" 
-       alt="AWS Certified Solutions Architect – Associate" 
-       width="120" height="120" style="object-fit: contain;">
+  <<!-- AWS Solutions Architect - Associate -->
+<img src="https://storage.googleapis.com/bkt-static-content/aws-certified-solutions-architect-associate.png" 
+     alt="AWS Certified Solutions Architect – Associate" 
+     width="120" height="120" style="object-fit: contain;">
 
-  <!-- AWS Cloud Practitioner -->
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge_512x512.9d990e17b5.png" 
-       alt="AWS Certified Cloud Practitioner" 
-       width="120" height="120" style="object-fit: contain;">
+<!-- AWS Cloud Practitioner -->
+<img src="https://raw.githubusercontent.com/belsareaditya/assets/main/aws-certified-cloud-practitioner.png" 
+     alt="AWS Certified Cloud Practitioner" 
+     width="120" height="120" style="object-fit: contain;">
+
 
 </div>
 
