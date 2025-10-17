@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://storage.googleapis.com/bkt-static-content/cicd.png" width="60" height="60" alt="CI/CD Pipeline"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/512/2721/2721298.png" width="60" height="60" alt="CI/CD Pipeline"/>
       <sub><b>CI/CD</b></sub>
     </td>
     <td align="center" width="100">
